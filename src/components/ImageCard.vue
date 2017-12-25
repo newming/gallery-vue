@@ -67,7 +67,7 @@ export default {
   padding 20px
   transform-origin: 0 50% 0
   overflow hidden
-  transition all 0.6s ease-in-out
+  transition top 0.6s ease-in-out, left 0.6s ease-in-out, transform 0.6s ease-in-out
   box-shadow 0px 0px 17px 0px rgba(0,0,0,0.5)
   cursor pointer
   // 添加 active class 进行背面查看
